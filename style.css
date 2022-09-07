@@ -1,15 +1,22 @@
 body{
     background-image: url(https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png);
 }
-div{
+.main{
     border: solid blue 2px;
     padding: 25px;
     margin: 20px 100px;
     box-shadow: 12px 12px 5px black;
     background-color: beige;
 }
+.center{
+    text-align: center;
+}
+a{
+    text-align: center;
+}
 h1 {
     font-family: "Times New Roman";
+    text-align: center;
 }
 img{
     border-radius: 50px;
